@@ -26,9 +26,6 @@ Language:
   - TypeScript
 Stack:
   - Kubernetes
-  - Vue
-  - React
-  - Angular
   - Yaml!
   - Unity
   - Baidu
